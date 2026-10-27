@@ -32,7 +32,7 @@ Trang web hoạt động theo mô hình **Serverless** (không cần máy chủ,
    - Tích hợp sẵn nút mở nhanh Kho bộ cài đặt (Unikey, Driver máy in, Acrobat, Office, Driver Token...): [Mở Kho Phần Mềm](https://drive.google.com/drive/folders/1T2LVJKymM-52KBLNeabYxtAT4zfXneND)
 
 7. **Bong Bóng Chat Zalo Trực Tiếp:**
-   - Bong bóng chat nổi góc dưới màn hình kết nối trực tiếp đến Zalo của IT: **`0973.807.027`** (https://zalo.me/0973807027).
+   - Bong bóng chat nổi góc dưới màn hình kết nối trực tiếp đến kênh hỗ trợ của IT Chi nhánh 23.
 
 ---
 
